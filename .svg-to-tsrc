@@ -1,0 +1,15 @@
+{
+    "conversionType": "files",
+    "srcFiles": [
+      "./src/assets/**/*.svg"
+    ],
+    "outputDirectory": "./src/icons",
+    "interfaceName": "CM",
+    "typeName": "cmIcon",
+    "prefix": "cm",
+    "generateType": true,
+    "exportCompleteIconSet": true,
+    "optimizeForLazyLoading": true,
+    "modelFileName": "cm-icon.model",
+    "compileSources": true
+}
